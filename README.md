@@ -1,2 +1,2 @@
 # StockPricesWebScrapper
-Webscrapper for StockPrices that returns or saves the data
+Webscrapper for Google Trends that returns or saves the data
