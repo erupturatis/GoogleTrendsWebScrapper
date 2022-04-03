@@ -1,2 +1,2 @@
 # StockPricesWebScrapper
-Webscrapper for StockPrices
+Webscrapper for StockPrices that returns or saves the data
